@@ -20,18 +20,6 @@ No single competitor spans all three. Individual pieces are replicable. The comb
 
 ---
 
-## Start Here
-
-- 📘 **[Aegis Methodology — White Paper](#)** — the full doctrine
-- ⚡ **[Executive Briefing](#)** — three scenarios, three outcomes
-- 🧭 **[One-Pager](#)** — the 2-minute version
-- 🛠️ **[Quickstart](#)** — run Sparfuchs QA against a repo in 10 minutes
-- 💡 **[Examples & Reference Implementations](#)** — agent canvases, policy configs, classification samples
-
-> Replace the `#` links above with real repo URLs once the repos are live.
-
----
-
 ## What You'll Find Here
 
 - **Specialist review agents** — the 42 reviewers and 26 canaries that ship with Sparfuchs QA
