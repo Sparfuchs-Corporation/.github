@@ -52,8 +52,8 @@ No single competitor spans all three. Individual pieces are replicable. The comb
 - 🌐 Website · [sparfuchs-pro.com](https://www.sparfuchs-pro.com)
 - ✉️ Email · hello@sparfuchs-pro.com
 - 💬 Discussions · see any flagship repo's Discussions tab
-- 🐦 X · [@sparfuchspro](#)
-- 💼 LinkedIn · [Sparfuchs Corporation](#)
+- 🐦 X · [@sparfuchscorp](https://x.com/Sparfuchscorp)
+- 💼 LinkedIn · [Sparfuchs Corporation](https://www.linkedin.com/company/sparfuchs-corporation)
 
 ## Contributing
 
