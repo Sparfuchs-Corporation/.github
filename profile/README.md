@@ -1,4 +1,4 @@
-# Sparfuchs Corporation
+# Welcome to Sparfuchs Corporation 👋
 
 **Governing agentic AI with quality, visibility, and control.**
 
