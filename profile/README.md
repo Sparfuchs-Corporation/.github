@@ -57,7 +57,7 @@ No single competitor spans all three. Individual pieces are replicable. The comb
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) in any repo, or the org-wide version in this repository. We review PRs weekly. Security issues: **security@sparfuchs-pro.com** (please do not file public issues).
+See [CONTRIBUTING.md](https://github.com/Sparfuchs-corporation/.github/blob/main/CONTRIBUTING.md) in any repo, or the org-wide version in this repository. We review PRs weekly. Security issues: **security@sparfuchs-pro.com** (please do not file public issues).
 
 ## License
 
